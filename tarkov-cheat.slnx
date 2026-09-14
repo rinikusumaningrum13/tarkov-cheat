@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/tarkov-cheat.Core/tarkov-cheat.Core.csproj" />
+    <Project Path="src/tarkov-cheat.Loader/tarkov-cheat.Loader.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/tarkov-cheat.Core.Tests/tarkov-cheat.Core.Tests.csproj" />
+  </Folder>
+</Solution>
